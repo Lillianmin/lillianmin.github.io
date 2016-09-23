@@ -1,4 +1,10 @@
-## TED Communication
+---
+layout: post
+title:  "TED Communication"
+comments: true
+date:   2016-09-22 21:23:55 +0800
+categories: TED
+---
 
 + Talks：[259](https://www.ted.com/search?cat=talks&per_page=12&q=communication)
 + Playlists: [13](https://www.ted.com/search?cat=playlists&per_page=12&q=communication)

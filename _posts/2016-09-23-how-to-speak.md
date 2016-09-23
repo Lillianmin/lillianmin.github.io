@@ -1,3 +1,11 @@
+---
+layout: post
+title:  "How to speak so that people want to listen"
+comments: true
+date:   2016-09-23 21:23:55 +0800
+categories: TED
+---
+
 ## [How to speak to that people want to listen](https://www.ted.com/playlists/226/before_public_speaking)
 
 怎么让别人倾听呢？首先，为什么别人不听？七宗罪。怎么样才听？HAIL。怎么说？Toolbox。说之前，6 vocal warm up。最重要的，要有意识的说，有意识的听。 
