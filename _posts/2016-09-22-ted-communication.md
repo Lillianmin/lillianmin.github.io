@@ -6,7 +6,6 @@
 没有时间精力一个个筛选Talks，那就筛选Playlist吧。
 
 ### [Before public speaking 8 talks](https://www.ted.com/playlists/226/before_public_speaking)
-
 ### [Talks for people who love words 12 talks](https://www.ted.com/playlists/117/words_words_words)
 ### [How to connect with others 7 talks](https://www.ted.com/playlists/367/when_you_re_having_a_hard_time)
 ### [The beauty of stranges 8 talks](https://www.ted.com/playlists/413/the_beauty_of_strangers)
