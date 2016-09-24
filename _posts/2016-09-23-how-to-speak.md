@@ -10,35 +10,35 @@ categories: TED
 
 怎么让别人倾听呢？首先，为什么别人不听？七宗罪。怎么样才听？HAIL。怎么说？Toolbox。说之前，6 vocal warm up。最重要的，要有意识的说，有意识的听。 
 * 七宗罪
-	- gossip 闲话
-	- judging 评判
-	- negativity 消极
-	- complaining 抱怨
-	- excuses 借口
-	- lying 夸大、谎言
-	- dogmatism 固执己见 
+    - gossip 闲话
+    - judging 评判
+    - negativity 消极
+    - complaining 抱怨
+    - excuses 借口
+    - lying 夸大、谎言
+    - dogmatism 固执己见 
 * HAIL
-	- honesty 真诚
-	- Authenticity 可靠 
-	- integrity 正直
-	- Love 爱
+    - honesty 真诚
+    - Authenticity 可靠 
+    - integrity 正直
+    - Love 爱
 * Toolbox
-	- register 音域
-	- timbre 音质
-	- prosody 韵律
-	- pace 速度
-	- pitch 音调
-	- volumne 音量
+    - register 音域
+    - timbre 音质
+    - prosody 韵律
+    - pace 速度
+    - pitch 音调
+    - volumne 音量
 * 6 vocal warm up
-	- hha
-	- ba ba ba ba
-	- brrrr
-	- la la la la
-	- rrrrrr
-	- weeeee---aw
+    - hha
+    - ba ba ba ba
+    - brrrr
+    - la la la la
+    - rrrrrr
+    - weeeee---aw
 * Consciously
-	- listen
-	- speak
+    - listen
+    - speak
 
 感触最深的一句话：Wish them well.
 
